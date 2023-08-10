@@ -1,5 +1,7 @@
 # FALSE_ALARM_DETECTION
 #By Team Stuck_Between_Pixels
+
+
 A github repository for stuck between pixels
 
 ➡️Camera rotator
